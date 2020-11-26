@@ -74,12 +74,12 @@ module.exports = {
                 },
                 //下面这行很特殊，这里是更改主题的关键，这里我只更改了主色，当然还可以更改其他的
                 modifyVars: {
-                    '@primary-color': '#317CC8',
-                    '@modal-confirm-body-padding': '8px',
-                    '@table-padding-horizontal': '10px',
-                    '@table-padding-vertical': '8px',
-                    '@layout-header-background': '#317CC8',
-                    '@layout-body-background': '#fafafa',
+                    // '@primary-color': '#317CC8',
+                    // '@modal-confirm-body-padding': '8px',
+                    // '@table-padding-horizontal': '10px',
+                    // '@table-padding-vertical': '8px',
+                    // '@layout-header-background': '#317CC8',
+                    // '@layout-body-background': '#fafafa',
                     // '@table-header-color': '#F4F4F4',
                 },
             },
